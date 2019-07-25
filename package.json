@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec",
-    "start": "node ./app/server.js"
+    "start": "node ./app/ex1.js"
   },
   "author": "caoliem",
   "license": "ISC",
